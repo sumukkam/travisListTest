@@ -10,7 +10,7 @@
     "package-linux" : "electron-packager . --overwrite --platform=linux --arch=x64 --icon=assets/icons/png/icon.png --prune=true --out=release-builds",
     "release": "build"
   },
-  "author": "Brad Traversy",
+  "author": "Brad Traversy <sushanthmukkamalla@gmail.com>",
   "license": "ISC",
   "dependencies": {
   },
